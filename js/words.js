@@ -212,52 +212,97 @@ let wordList5=[
         
     },
     {
-        word: "Red and blue wall-crawler",
-        hint: "spidey"
+        word: "spidey",
+        hint: "Red and blue wall-crawler"
         
     },
     {
-        word: "Wakandan superhero and king",
-        hint: "tchalla"
+        word: "tchalla",
+        hint: "Wakandan superhero and king"
         
     },
     {
-        word: "Green, gamma-powered giant",
-        hint: "hulk"
+        word: "hulk",
+        hint: "Green, gamma-powered giant"
         
     },
     {
-        word: "Sorcerer Supreme",
-        hint: "strange"
+        word: "strange",
+        hint: "Sorcerer Supreme"
         
     },
     {
-        word: "Mutant with optic blasts",
-        hint: "cyclo"
+        word: "cyclo",
+        hint: "Mutant with optic blasts"
         
     },
     {
-        word: "Norse trickster and mischief-maker",
-        hint: "loki"
+        word: "loki",
+        hint: "Norse trickster and mischief-maker"
         
     },
     {
-        word: "Feline superheroine with claws",
-        hint: "logan"
+        word: "logan",
+        hint: "Feline superheroine with claws"
         
     },
     {
-        word: "Super-soldier from World War II",
-        hint: "cap"
+        word: "cap",
+        hint: "Super-soldier from World War II"
         
     },]
 
 
 //Rahul's words 
 
+//DC
+let wordList6=[
+    {
+        word: "batman",
+        hint: "The Dark Knight"
+    },
+    {
+        word: "superman",
+        hint: "Man of Steel"
+    },
+    {
+        word: "wonderwoman",
+        hint: "Amazonian warrior princess"
+    },
+    {
+        word: "flash",
+        hint: "Speedster in a red suit"
+    },
+    {
+        word: "hal",
+        hint: "Green Lantern with willpower"
+    },
+    {
+        word: "aquaman",
+        hint: "King of Atlantis"
+    },
+    {
+        word: "joker",
+        hint: "The Clown Prince of Crime"
+    },
+    {
+        word: "zatanna",
+        hint: "Mistress of Magic"
+    },
+    {
+        word: "catwoman",
+        hint: "Gotham's cat burglar"
+    },
+    {
+        word: "dickgrayson",
+        hint: "Boy Wonder"
+    },
+]
+
+
 //ANIME
 
-let wordList6=[
+let wordList7=[
     {
         word: "naruto",
         hint: "7th Hokage"
@@ -301,9 +346,9 @@ let wordList6=[
 ]
 
 //NARUTO
-let wordList7=[
+let wordList8=[
     {
-        word: "naruto ",
+        word: "naruto",
         hint: "7th Hokage"
     },
     {
@@ -345,7 +390,7 @@ let wordList7=[
 ]
 
 //ONEPEICE
-let wordList8=[
+let wordList9=[
     {
         word: "luffy",
         hint: "Pirate captain with a straw hat"
@@ -389,7 +434,7 @@ let wordList8=[
 ]
 
 //NBA
-let wordList9=[
+let wordList10=[
     {
         word: "lebron",
         hint: "The King of the Lakers"
@@ -433,7 +478,7 @@ let wordList9=[
 ]
 
 //FOOD
-let wordList10=[
+let wordList11=[
     {
         word: "lasgna",
         hint: "Italian dish with layers of pasta, cheese, and sauce"

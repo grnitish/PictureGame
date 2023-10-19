@@ -135,7 +135,12 @@ body{
   height: 10vw;
   object-fit: contain;
 }
-  
+footer {
+  text-align: center;
+  padding: 5px;
+  background-color: #abbaba;
+  color: #000;
+}
 @media screen and (max-width: 460px) {
   .wrapper {
     width: 100%;
